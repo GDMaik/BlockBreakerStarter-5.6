@@ -51,7 +51,6 @@ Plugins/**/Binaries/*
 
 # Builds
 !Build/*
-!Build/**
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
@@ -73,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Zip Folder
+Maik_Schulze_GC_5_5_BlockBreaker.zip
