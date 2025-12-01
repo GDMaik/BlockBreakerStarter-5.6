@@ -6,7 +6,7 @@
 - Once You consume an Orb you get the desired Effect
 - The Project uses the **New Input System**
 - The ```BlockBreaker.exe``` can be found in the ```Build/Windows/``` Folder
-- When You finish the final room You see a **win screen** displaying your ```score```, your **locally stored ```highscore```** and your **``` hit percentage```**
+- When You finish the final room You see a **win screen** displaying your ```score```, your **locally stored ```highscore```** and your **```hit percentage```**
 - The ```HUD``` consists of 3 parts: ```DebugBox``` (with things like **Countdown**, **Score**, Room, Stage, Damage, etc.), **```Healthbar```** (including **current Powerup** and its details) and ```Effect Display``` (with the **current effect** and remaining timer)
 - There are 3 ```Enemy Spawner``` types: ```Standing``` (unused), ```Running``` (with variable speed) and ```Watching``` (walks to You and **starts running at close range**)
 - Once The Enemies hit You, You loose Health
