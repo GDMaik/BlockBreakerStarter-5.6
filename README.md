@@ -1,4 +1,4 @@
-# BlockBreaker:
+
 ## Game Mechanics:
 - There are **3 Powerups**: ```Heal Orb```, ```Speed Orb``` and ```Strength Orb```
 - You can only have **one Powerup at a time**
@@ -11,3 +11,6 @@
 - There are 3 ```Enemy Spawner``` types: ```Standing``` (unused), ```Running``` (with variable speed) and ```Watching``` (walks to You and **starts running at close range**)
 - Once The Enemies hit You, You loose Health
 - When You die or win, the game displays a **win/loose screen** and **restarts the game** after 5 seconds
+
+## HUD
+<img width="2555" height="1439" alt="image" src="https://github.com/user-attachments/assets/9d2f233e-eb3d-4306-8534-7de28938ba4c" />
